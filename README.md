@@ -1,0 +1,2 @@
+# ALLEGRO
+for NETSKOPE SSPM/CASB DEMO purpose
