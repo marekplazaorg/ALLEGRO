@@ -1,3 +1,3 @@
 # ALLEGRO
-for NETSKOPE SSPM/CASB DEMO purpose
+for NETSKOPE SSPM/CASB DEMO purpose by APIUS Technologies S.A.
 
